@@ -1,4 +1,4 @@
-# OLA Ride Analytics — Power BI & SQL
+# OLA Ride Analytics — Power BI & SQL & Excel
 
 An end-to-end data analytics project using **Microsoft Excel, SQL, and Power BI** to analyze OLA ride-booking data, understand booking outcomes, study vehicle performance, evaluate revenue and payment behavior, and identify cancellation and rating patterns.
 
