@@ -363,7 +363,7 @@ The project uses a CSV-based ride-booking dataset containing booking-level infor
 
 # 👤 Author
 
-**Rishi Chaudhary**
+**Rishi Raj**
 
 **Data Analytics | SQL | Excel | Power BI**
 
